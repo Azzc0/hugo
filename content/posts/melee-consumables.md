@@ -1,7 +1,7 @@
 +++ 
 draft = false
 date = 2024-04-14T03:10:11+02:00
-title = "Tank Consumables"
+title = "Melee Consumables"
 description = ""
 slug = ""
 authors = []
@@ -11,7 +11,21 @@ externalLink = ""
 series = []
 +++
 
+<!--
+Zanza
+Blasted Lands
+Mongoose
+Giants
+Fortitude
 
+
+LIP
+firewater
+
+Sharpening
+
+Power mushroom
+-->
 #### Långa effekter
 20 minuter eller mer.
 {{< tabgroup >}}
@@ -42,23 +56,41 @@ Det finns andra Zanza potions men 50 stamina är svårt att välja bort.
 
 {{< tab name="Blasted Land" >}}
 <div class="tooltip">
-  <div class="wtti" id="inv_misc_dust_02">
-    <div class="stack-size"> 20 </div>
-    <div class="external-links">
-      <a href="https://database.turtle-wow.org/?item=8412" title="Turtle-wow Database">
-        <img src="https://i.imgur.com/qVIUqUn.png" style="width:16px"/>
-      </a>
+  <div class="tooltip">
+    <div class="wtti" id="inv_misc_dust_02">
+      <div class="stack-size"> 20 </div>
+      <div class="external-links">
+        <a href="https://database.turtle-wow.org/?item=8412" title="Turtle-wow Database">
+          <img src="https://i.imgur.com/qVIUqUn.png" style="width:16px"/>
+        </a>
+      </div>
+    </div>
+    <div class="wtt">
+    <span style="font-size:110%">Ground Scorpok Assay</span>
+    </br>
+    Binds when picked up
+    </br>
+    <span id="uncommon">Use: Increases Agility by 25 when consumed. Effect lasts for 60 minutes.</span>
     </div>
   </div>
-  <div class="wtt">
-  <span style="font-size:110%">Ground Scorpok Assay</span>
-  </br>
-  Binds when picked up
-  </br>
-  <span id="uncommon">Use: Increases Agility by 25 when consumed. Effect lasts for 60 minutes.</span>
+  <div class="tooltip">
+    <div class="wtti" id="inv_stone_15">
+      <div class="stack-size"> 20 </div>
+      <div class="external-links">
+        <a href="https://database.turtle-wow.org/?item=8410" title="Turtle-wow Database">
+          <img src="https://i.imgur.com/qVIUqUn.png" style="width:16px"/>
+        </a>
+      </div>
+    </div>
+    <div class="wtt">
+    <span style="font-size:110%">R.O.I.D.S</span>
+    </br>
+    Binds when picked up
+    </br>
+    <span id="uncommon">Use: Increases Strength by 25 when consumed. Effect lasts for 60 minutes.</br>"Robust Operational Imbue Derived From Snickerfang"</span>
+    </div>
   </div>
 </div>
-Lättare att farm ihop än någonsin tidigare, varar genom döden. Lung Juice stackar inte med Spirit of Zanza och därför rekomenderas agi för tanks.
 {{< /tab >}}
 
 {{< tab name="Elixir" >}}
@@ -109,7 +141,7 @@ Lättare att farm ihop än någonsin tidigare, varar genom döden. Lung Juice st
   </div>
 </div>
 </div>
-<div class="tooltip">
+
 <!--Foritude-->
 <div class="tooltip">
   <div class="wtti" id="inv_potion_43">
@@ -132,81 +164,6 @@ Lättare att farm ihop än någonsin tidigare, varar genom döden. Lung Juice st
   </div>
 </div>
 
-</br>
-<!-- Defense -->
-<div class="tooltip">
-  <div class="wtti" id="inv_potion_65">
-    <div class="stack-size">10</div>
-    <div class="external-links">
-      <a href="https://database.turtle-wow.org/?item=8951" title="Turtle-wow Database">
-        <img src="https://i.imgur.com/qVIUqUn.png" style="width:15px; margin-top:-3px;"/>
-      </a>
-      <a href="https://www.wowauctions.net/auctionHouse/turtle-wow/nordanaar/mergedAh/elixir-of-greater-defense-8951" title="WoW Auctions">
-        <img src="https://i.imgur.com/56N2PQk.png" style="width:15px; margin-top:-3px"/>
-      </a>
-    </div>
-  </div>
-  <div class="wtt">
-  <span style="font-size:110%">Elixir of Greater Defense</span>
-  </br>
-  Requires Level 29
-  </br>
-  <span id="uncommon">Use: Increases armor by 250 for 3600 sec.
-</span>
-  </div>
-</div>
-</div>
-
-</br>
-<!-- Arthas -->
-<div class="tooltip">
-  <div class="wtti" id="inv_potion_28">
-    <div class="stack-size">10</div>
-    <div class="external-links">
-      <a href="https://database.turtle-wow.org/?item=9088" title="Turtle-wow Database">
-        <img src="https://i.imgur.com/qVIUqUn.png" style="width:15px; margin-top:-3px;"/>
-      </a>
-      <a href="https://www.wowauctions.net/auctionHouse/turtle-wow/nordanaar/mergedAh/gift-of-arthas-9088" title="WoW Auctions">
-        <img src="https://i.imgur.com/56N2PQk.png" style="width:15px; margin-top:-3px"/>
-      </a>
-    </div>
-  </div>
-  <div class="wtt">
-  <span style="font-size:110%">Gift of Arthas</span>
-  </br>
-  Requires Level 38
-  </br>
-  <span id="uncommon">
-Use: Increases resistance to shadow by 10. If an enemy strikes the imbiber, the attacker has a 30% chance of being inflicted with disease that increases their damage taken by 8 for 3 min. Lasts for 30 min.</span>
-  </div>
-</div>
-<i>Gift of Arthas försvinner när man dör</i>
-
-#### Dyrare alternativ
-
-<!-- Superior Defense -->
-<div class="tooltip">
-
-  <div class="wtti" id="inv_potion_66">
-    <div class="stack-size">10</div>
-    <div class="external-links">
-      <a href="https://database.turtle-wow.org/?item=13445" title="Turtle-wow Database">
-        <img src="https://i.imgur.com/qVIUqUn.png" style="width:15px; margin-top:-3px;"/>
-      </a>
-      <a href="https://www.wowauctions.net/auctionHouse/turtle-wow/nordanaar/mergedAh/elixir-of-superior-defense-13445" title="WoW Auctions">
-        <img src="https://i.imgur.com/56N2PQk.png" style="width:15px; margin-top:-3px"/>
-      </a>
-    </div>
-  </div>
-  <div class="wtt">
-  <span style="font-size:110%">Elixir of Superior Defense</span>
-  </br>
-  Requires Level 43
-  </br>
-  <span id="uncommon">Use: Increases armor by 450 for 1 hr.</span>
-  </div>
-</div>
-<i>Ersätter Greater Defense</i>
 {{< /tab >}}
 
 
@@ -214,29 +171,102 @@ Use: Increases resistance to shadow by 10. If an enemy strikes the imbiber, the 
 <!-- Dyrare -->
 
 
-<!-- Firewater -->
+<!-- Weapon stones -->
 <div class="tooltip">
-  <div class="wtti" id="inv_potion_92">
-    <div class="stack-size">10</div>
-    <div class="external-links">
-      <a href="https://database.turtle-wow.org/?item=12820" title="Turtle-wow Database">
-        <img src="https://i.imgur.com/qVIUqUn.png" style="width:15px; margin-top:-3px;"/>
-      </a>
-      <a href="https://www.wowauctions.net/auctionHouse/turtle-wow/nordanaar/mergedAh/winterfall-firewater-12820" title="WoW Auctions">
-        <img src="https://i.imgur.com/56N2PQk.png" style="width:15px; margin-top:-3px"/>
-      </a>
+  <div class="tooltip">
+    <div class="wtti" id="inv_stone_sharpeningstone_05">
+      <div class="stack-size">20</div>
+      <div class="external-links">
+        <a href="https://database.turtle-wow.org/?item=12404" title="Turtle-wow Database">
+          <img src="https://i.imgur.com/qVIUqUn.png" style="width:15px; margin-top:-3px;"/>
+        </a>
+        <a href="https://www.wowauctions.net/auctionHouse/turtle-wow/nordanaar/mergedAh/winterfall-firewater-12820" title="WoW Auctions">
+          <img src="https://i.imgur.com/56N2PQk.png" style="width:15px; margin-top:-3px"/>
+        </a>
+      </div>
+    </div>
+    <div class="wtt">
+    <span style="font-size:110%">Dense Sharpening Stone</span>
+    </br>
+    Requires Level 35
+    </br>
+    <span id="uncommon">
+      Use: Increase sharp weapon damage by 8 for 30 min.
+    </span>
     </div>
   </div>
-  <div class="wtt">
-  <span style="font-size:110%">Winterfall Firewater</span>
-  </br>
-  Requires Level 45
-  </br>
-  <span id="uncommon">
-Use: Increases your melee attack power by 35 and size for 20 min.</span>
+  <div class="tooltip">
+    <div class="wtti" id="inv_stone_weightstone_05">
+      <div class="stack-size">20</div>
+      <div class="external-links">
+        <a href="https://database.turtle-wow.org/?item=12643" title="Turtle-wow Database">
+          <img src="https://i.imgur.com/qVIUqUn.png" style="width:15px; margin-top:-3px;"/>
+        </a>
+        <a href="https://www.wowauctions.net/auctionHouse/turtle-wow/nordanaar/mergedAh/winterfall-firewater-12820" title="WoW Auctions">
+          <img src="https://i.imgur.com/56N2PQk.png" style="width:15px; margin-top:-3px"/>
+        </a>
+      </div>
+    </div>
+    <div class="wtt">
+    <span style="font-size:110%">Dense Weight Stone</span>
+    </br>
+    Requires Level 35
+    </br>
+    <span id="uncommon">
+      Use: Increase the damage of a blunt weapon by 8 for 30 minutes.
+    </span>
+    </div>
+  </div>
+</div>
+
+<div class="tooltip">
+  <div class="tooltip">
+    <div class="wtti" id="inv_stone_02">
+      <div class="stack-size">20</div>
+      <div class="external-links">
+        <a href="https://database.turtle-wow.org/?item=12404" title="Turtle-wow Database">
+          <img src="https://i.imgur.com/qVIUqUn.png" style="width:15px; margin-top:-3px;"/>
+        </a>
+        <a href="https://www.wowauctions.net/auctionHouse/turtle-wow/nordanaar/mergedAh/winterfall-firewater-12820" title="WoW Auctions">
+          <img src="https://i.imgur.com/56N2PQk.png" style="width:15px; margin-top:-3px"/>
+        </a>
+      </div>
+    </div>
+    <div class="wtt">
+    <span style="font-size:110%">Elemental Sharpening Stone</span>
+    </br>
+    Requires Level 35
+    </br>
+    <span id="uncommon">
+      Use: Use: Increase critical chance on a melee weapon by 2% for 30 minutes.
+    </span>
+    </div>
+  </div>
+  <div class="tooltip">
+    <div class="wtti" id="inv_potion_92">
+      <div class="stack-size">10</div>
+      <div class="external-links">
+        <a href="https://database.turtle-wow.org/?item=12820" title="Turtle-wow Database">
+          <img src="https://i.imgur.com/qVIUqUn.png" style="width:15px; margin-top:-3px;"/>
+        </a>
+        <a href="https://www.wowauctions.net/auctionHouse/turtle-wow/nordanaar/mergedAh/winterfall-firewater-12820" title="WoW Auctions">
+          <img src="https://i.imgur.com/56N2PQk.png" style="width:15px; margin-top:-3px"/>
+        </a>
+      </div>
+    </div>
+    <div class="wtt">
+    <span style="font-size:110%">Winterfall Firewater</span>
+    </br>
+    Requires Level 45
+    </br>
+    <span id="uncommon">
+  Use: Increases your melee attack power by 35 and size for 20 min.</span>
+    </div>
   </div>
 </div>
 <i>Firewater försvinner med döden.</i>
+
+Lägg in sten och dyr sten
 
 
 
