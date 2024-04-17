@@ -61,7 +61,20 @@ Technicians tankas av en person åt sidan, de delar threat med varandra.
 
 Warlocks dödas av först så de inte får en chans att framkalla Felguards.
 
-Spellbinder drar en hunter iväg för att slippa flamestrike/polymorph i raiden.
+Spellbinder dras iväg för att slippa flamestrike/polymorph i raiden.
 
 Overseer tankas åt sidan.
 
+#### Overseer Trio
+
+- ![Skull](/raid-targets/Skull.webp) Death Talon Overseer
+- ![Cross](/raid-targets/Cross.webp) Death Talon Overseer
+- ![Square](/raid-targets/Square.webp) Death Talon Overseer
+- ![Diamond](/raid-targets/Diamond.webp) Death Talon Wyrmguard
+
+Overseer cleavar. Tankas med ryggen emot varandra så raiden kan attackera dem ihop utan att tanksen cleavas sönder.
+
+Wyrmguard tankas åt sidan.
+
+#### Wyrmguard trio
+Try Wyrmguards, poppa. Tanks poppar free action potion i pull.
