@@ -31,8 +31,10 @@ Swiftness Potion
 
 # Markeringar
 Trash efter Vaelstrazs
-### Halls of Strife
 
+{{< tabgroup >}}
+{{< tab name="Halls of Strife" >}}
+Death Talon grupper efter Vaelstrazs
 - ![Skull](https://i.imgur.com/wpPEzjA.png) Death Talon Flamescale
 - ![Cross](https://i.imgur.com/SHcAO5b.png) Death Talon Flamescale
 - ![Square](https://i.imgur.com/3Cw4UaK.png) Death Talon Seether
@@ -41,15 +43,16 @@ Trash efter Vaelstrazs
 - ![Diamond](https://i.imgur.com/6JDqq80.png) Death Talon Wyrmkin
 - ![Triangle](https://i.imgur.com/3rDmZs8.png) Death Talon Captain
 <!-- Star https://i.imgur.com/LIPYBKI.png -->
-Captain kitas iväg av en hunter så de inte kan buffa de andra mobsen.
+Captain kitas iväg av en hunter så den inte kan buffa de andra mobsen.
 
-Wyrmkin söver vi med druid hibernate.
+Wyrmkin söver vi med druidens hibernate.
 
 Flamescale chargar regelbundet och dödas av först.
+{{< /tab >}}
 
-### Crimson Laboratories
-#### Lab packs
 
+{{< tab name="Technician pack" >}}
+Grupper med Blackwing Tachnicians i Crimson Laboratories
 - ![Skull](https://i.imgur.com/wpPEzjA.png) Blackwing Warlock
 - ![Cross](https://i.imgur.com/SHcAO5b.png) Blackwing Warlock
 - ![Square](https://i.imgur.com/3Cw4UaK.png) Blackwing Spellbinder
@@ -64,8 +67,10 @@ Warlocks dödas av först så de inte får en chans att framkalla Felguards.
 Spellbinder dras iväg för att slippa flamestrike/polymorph i raiden.
 
 Overseer tankas åt sidan.
+{{< /tab >}}
 
-#### Overseer Trio
+{{< tab name="Overseer pack" >}}
+En grupp med flera Overseers i Crimson Laboratories.
 
 - ![Skull](https://i.imgur.com/wpPEzjA.png) Death Talon Overseer
 - ![Cross](https://i.imgur.com/SHcAO5b.png) Death Talon Overseer
@@ -75,6 +80,13 @@ Overseer tankas åt sidan.
 Overseer cleavar. Tankas med ryggen emot varandra så raiden kan attackera dem ihop utan att tanksen cleavas sönder.
 
 Wyrmguard tankas åt sidan.
+{{< /tab >}}
+{{< tab name="Wyrmguard trio" >}}
+Grupper med tre wyrmguards i Crimson Laboratories.
+- ![Cross](https://i.imgur.com/SHcAO5b.png) Death Talon Wyrmguard
+- ![Square](https://i.imgur.com/3Cw4UaK.png) Death Talon Wyrmguard
+- ![Diamond](https://i.imgur.com/6JDqq80.png)  Death Talon Wyrmguard
+Tankas med ordentligt mellanrum.
 
-#### Wyrmguard trio
-Try Wyrmguards, poppa. Tanks poppar free action potion i pull.
+{{< /tab >}}
+{{< /tabgroup >}}
