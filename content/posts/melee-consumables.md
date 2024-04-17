@@ -30,6 +30,7 @@ Power mushroom
 20 minuter eller mer.
 {{< tabgroup >}}
 {{< tab name="Zanza" >}}
+Ifrån questet [Zanza's Potent Potables](https://database.turtle-wow.org/?quest=8243).
 <div class="tooltip">
   <div class="wtti" id="inv_potion_30">
     <div class="stack-size"> 20 </div>
@@ -48,6 +49,7 @@ Power mushroom
   </br>
   <span id="uncommon"><i>“Blessed with the mojo of Zanza!”</i></span>
   </div>
+  <input type="checkbox">
 </div>
 Det finns andra Zanza potions men 50 stamina är svårt att välja bort.
 
