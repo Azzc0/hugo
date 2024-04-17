@@ -164,6 +164,8 @@ Det finns andra Zanza potions men 50 stamina är svårt att välja bort.
   </div>
 </div>
 
+
+
 {{< /tab >}}
 
 
@@ -180,7 +182,7 @@ Det finns andra Zanza potions men 50 stamina är svårt att välja bort.
         <a href="https://database.turtle-wow.org/?item=12404" title="Turtle-wow Database">
           <img src="https://i.imgur.com/qVIUqUn.png" style="width:15px; margin-top:-3px;"/>
         </a>
-        <a href="https://www.wowauctions.net/auctionHouse/turtle-wow/nordanaar/mergedAh/winterfall-firewater-12820" title="WoW Auctions">
+        <a href="https://www.wowauctions.net/auctionHouse/turtle-wow/nordanaar/mergedAh/dense-sharpening-stone-12404" title="WoW Auctions">
           <img src="https://i.imgur.com/56N2PQk.png" style="width:15px; margin-top:-3px"/>
         </a>
       </div>
@@ -202,7 +204,7 @@ Det finns andra Zanza potions men 50 stamina är svårt att välja bort.
         <a href="https://database.turtle-wow.org/?item=12643" title="Turtle-wow Database">
           <img src="https://i.imgur.com/qVIUqUn.png" style="width:15px; margin-top:-3px;"/>
         </a>
-        <a href="https://www.wowauctions.net/auctionHouse/turtle-wow/nordanaar/mergedAh/winterfall-firewater-12820" title="WoW Auctions">
+        <a href="https://www.wowauctions.net/auctionHouse/turtle-wow/nordanaar/mergedAh/dense-weightstone-12643" title="WoW Auctions">
           <img src="https://i.imgur.com/56N2PQk.png" style="width:15px; margin-top:-3px"/>
         </a>
       </div>
@@ -219,21 +221,22 @@ Det finns andra Zanza potions men 50 stamina är svårt att välja bort.
   </div>
 </div>
 
+Mycket dyrare effekter:
 <div class="tooltip">
   <div class="tooltip">
     <div class="wtti" id="inv_stone_02">
       <div class="stack-size">20</div>
       <div class="external-links">
-        <a href="https://database.turtle-wow.org/?item=12404" title="Turtle-wow Database">
+        <a href="https://database.turtle-wow.org/?item=18262" title="Turtle-wow Database">
           <img src="https://i.imgur.com/qVIUqUn.png" style="width:15px; margin-top:-3px;"/>
         </a>
-        <a href="https://www.wowauctions.net/auctionHouse/turtle-wow/nordanaar/mergedAh/winterfall-firewater-12820" title="WoW Auctions">
+        <a href="https://www.wowauctions.net/auctionHouse/turtle-wow/nordanaar/mergedAh/elemental-sharpening-stone-18262" title="WoW Auctions">
           <img src="https://i.imgur.com/56N2PQk.png" style="width:15px; margin-top:-3px"/>
         </a>
       </div>
     </div>
     <div class="wtt">
-    <span style="font-size:110%">Elemental Sharpening Stone</span>
+    <span id="uncommon" style="font-size:110%">Elemental Sharpening Stone</span>
     </br>
     Requires Level 35
     </br>
@@ -266,8 +269,6 @@ Det finns andra Zanza potions men 50 stamina är svårt att välja bort.
 </div>
 <i>Firewater försvinner med döden.</i>
 
-Lägg in sten och dyr sten
-
 
 
 {{< /tab >}}
@@ -280,26 +281,24 @@ Instant effekter eller buffar som varar mindre än 20 minuter.
 {{< tab name="Potions" >}}
 
 <div class="tooltip">
-  <!-- Lesser Stoneshield -->
+  <!-- Herbal Tea -->
   <div class="tooltip">
-    <div class="wtti" id="inv_potion_67">
-      <div class="stack-size">10</div>
+    <div class="wtti" id="inv_drink_milk_05">
+      <div class="stack-size">5</div>
       <div class="external-links">
-        <a href="https://database.turtle-wow.org/?item=4623" title="Turtle-wow Database">
+        <a href="https://database.turtle-wow.org/?item=61675" title="Turtle-wow Database">
           <img src="https://i.imgur.com/qVIUqUn.png" style="width:15px; margin-top:-3px;"/>
-        </a>
-        <a href="https://www.wowauctions.net/auctionHouse/turtle-wow/nordanaar/mergedAh/lesser-stoneshield-potion-4623" title="WoW Auctions">
-          <img src="https://i.imgur.com/56N2PQk.png" style="width:15px; margin-top:-3px"/>
         </a>
       </div>
     </div>
     <div class="wtt">
-    <span style="font-size:110%">Lesser Stoneshield Potion</span>
+    <span style="font-size:110%" id="uncommon">Nordanaar Herbal Tea</span>
     </br>
-    Requires Level 33
+    Binds when picked up
     </br>
-    <span id="uncommon">
-  Use: Increases armor by 1000 for 90 sec.
+    Requires Level 50
+    </br>
+    <span id="uncommon">Use: Restores 1050 to 1751 health and mana.
   </span>
     </div>
   </div>
@@ -327,92 +326,21 @@ Instant effekter eller buffar som varar mindre än 20 minuter.
 
 </div>
 
-<div class="tooltip">
-  <!-- Herbal Tea -->
-  <div class="tooltip">
-    <div class="wtti" id="inv_drink_milk_05">
-      <div class="stack-size">5</div>
-      <div class="external-links">
-        <a href="https://database.turtle-wow.org/?item=61675" title="Turtle-wow Database">
-          <img src="https://i.imgur.com/qVIUqUn.png" style="width:15px; margin-top:-3px;"/>
-        </a>
-      </div>
-    </div>
-    <div class="wtt">
-    <span style="font-size:110%" id="uncommon">Nordanaar Herbal Tea</span>
-    </br>
-    Binds when picked up
-    </br>
-    Requires Level 50
-    </br>
-    <span id="uncommon">Use: Restores 1050 to 1751 health and mana.
-  </span>
-    </div>
-  </div>
-  <!-- Free Action Potion, kanske helt enkelt inte ska plocka med denna -->
-  <div class="tooltip">
-    <div class="wtti" id="inv_potion_04">
-      <div class="stack-size">10</div>
-      <div class="external-links">
-        <a href="https://database.turtle-wow.org/?item=5634" title="Turtle-wow Database">
-          <img src="https://i.imgur.com/qVIUqUn.png" style="width:15px; margin-top:-3px;"/>
-        </a>
-        <a href="https://www.wowauctions.net/auctionHouse/turtle-wow/nordanaar/mergedAh/free-action-potion-5634" title="WoW Auctions">
-          <img src="https://i.imgur.com/56N2PQk.png" style="width:15px; margin-top:-3px"/>
-        </a>
-      </div>
-    </div>
-    <div class="wtt">
-    <span style="font-size:110%">Free Action Potion</span>
-    </br>
-    Requires Level 20
-    </br>
-    <span id="uncommon">
-  Use: Makes you immune to Stun and Movement Impairing effects for the next 30 sec. Does not remove effects already on the imbiber.</span>
-    </div>
-  </div>
-
-</div>
-
-###### Dyrare
-
-<!-- Dyrare -->
-<!-- Greater Stoneshield -->
-<div class="tooltip">
-  <div class="wtti" id="inv_potion_69">
-    <div class="stack-size">10</div>
-    <div class="external-links">
-      <a href="https://database.turtle-wow.org/?item=13455" title="Turtle-wow Database">
-        <img src="https://i.imgur.com/qVIUqUn.png" style="width:15px; margin-top:-3px;"/>
-      </a>
-      <a href="https://www.wowauctions.net/auctionHouse/turtle-wow/nordanaar/mergedAh/greater-stoneshield-potion-13455" title="WoW Auctions">
-        <img src="https://i.imgur.com/56N2PQk.png" style="width:15px; margin-top:-3px"/>
-      </a>
-    </div>
-  </div>
-  <div class="wtt">
-  <span style="font-size:110%">Greater Stoneshield Potion</span>
-  </br>
-  Requires Level 46
-  </br>
-  <span id="uncommon">Use Increases armor by 2000 for 2 min.</span>
-  </div>
-</div>
 {{< /tab >}}
 
 
 {{< tab name="Mat" >}}
 <div class="tooltip">
 <!-- Mat -->
-<!-- Hardened Mushroom -->
+<!-- Power Mushroom -->
 <div class="tooltip">
   <div class="wtti" id="inv_mushroom_11">
     <div class="stack-size">20</div>
     <div class="external-links">
-      <a href="https://database.turtle-wow.org/?item=51717" title="Turtle-wow Database">
+      <a href="https://database.turtle-wow.org/?item=51720" title="Turtle-wow Database">
         <img src="https://i.imgur.com/qVIUqUn.png" style="width:15px; margin-top:-3px;"/>
       </a>
-      <a href="https://www.wowauctions.net/auctionHouse/turtle-wow/nordanaar/mergedAh/magic-mushroom-51717" title="WoW Auctions">
+      <a href="https://www.wowauctions.net/auctionHouse/turtle-wow/nordanaar/mergedAh/magic-mushroom-51720" title="WoW Auctions">
         <img src="https://i.imgur.com/56N2PQk.png" style="width:15px; margin-top:-3px"/>
       </a>
     </div>
@@ -423,57 +351,57 @@ Instant effekter eller buffar som varar mindre än 20 minuter.
   Requires Level 55
   </br>
   <span id="uncommon">
-Use: Restores 2550 health over 30 sec. Must remain seated while eating. If you spend at least 10 seconds eating you will become well fed and gain 25 Stamina for 15 min. </br>"Delicious and completely absent of psychedelic properties."</span>
+  Use: Restores 2148 health over 30 sec. Must remain seated while eating. If you spend at least 10 seconds eating you will become well fed and gain 20 Strength for 900 sec.</br>"Delicious and completely absent of psychedelic properties."</span>
   </div>
 </div>
 
 </br>
-<!-- Le Fishe Au Chocolat -->
+<!-- Danonzo\'s Tel'Abim Medley -->
 <div class="tooltip">
-  <div class="wtti" id="">
+  <div class="wtti" id="inv_misc_food_08">
     <div class="stack-size">20</div>
     <div class="external-links">
-      <a href="https://database.turtle-wow.org/?item=84040" title="Turtle-wow Database">
+      <a href="https://database.turtle-wow.org/?item=60978" title="Turtle-wow Database">
         <img src="https://i.imgur.com/qVIUqUn.png" style="width:15px; margin-top:-3px;"/>
       </a>
-      <a href="https://www.wowauctions.net/auctionHouse/turtle-wow/nordanaar/mergedAh/le-fishe-au-chocolat-84040" title="WoW Auctions">
+      <a href="https://www.wowauctions.net/auctionHouse/turtle-wow/nordanaar/mergedAh/danonzos-telabim-medley-60978" title="WoW Auctions">
         <img src="https://i.imgur.com/56N2PQk.png" style="width:15px; margin-top:-3px"/>
       </a>
     </div>
   </div>
   <div class="wtt">
-  <span style="font-size:110%">Le Fishe Au Chocolat</span>
+  <span style="font-size:110%">Danonzo's Tel'Abim Medley</span>
   </br>
   Requires Level 55
   </br>
   <span id="uncommon">
-Use: Restores 3180 health over 30 sec. Must remain seated while eating. If you spend at least 10 seconds eating you will become well fed and gain 1% dodge and 4 defense for 15 min.</br>"A life-changing experience."</span>
+  Use: Restores 3186 health over 30 sec. Must remain seated while eating. If you spend at least 10 seconds eating you will become well fed and gain 2% Haste for 900 sec.</span>
   </div>
 </div>
 </div>
-</br>
-Gurubashi Gumbo stackar med andra matbuffar. Fungerar fint med Hardened mushroom.
-<!-- Gurubashi Gumbo, stackar med andra -->
 <div class="tooltip">
-  <div class="wtti" id="inv_misc_food_64">
+  <div class="wtti" id="inv_misc_food_40">
     <div class="stack-size">20</div>
     <div class="external-links">
-      <a href="https://database.turtle-wow.org/?item=53015" title="Turtle-wow Database">
+      <a href="https://database.turtle-wow.org/?item=51711" title="Turtle-wow Database">
         <img src="https://i.imgur.com/qVIUqUn.png" style="width:15px; margin-top:-3px;"/>
       </a>
-      <a href="https://www.wowauctions.net/auctionHouse/turtle-wow/nordanaar/mergedAh/gurubashi-gumbo-53015" title="WoW Auctions">
+      <a href="https://www.wowauctions.net/auctionHouse/turtle-wow/nordanaar/mergedAh/grilled-squid-13928" title="WoW Auctions">
         <img src="https://i.imgur.com/56N2PQk.png" style="width:15px; margin-top:-3px"/>
       </a>
     </div>
   </div>
   <div class="wtt">
-  <span style="font-size:110%">Gurubashi Gumbo</span>
+  <span style="font-size:110%">Sweet Mountain Berry</span>
   </br>
-  Requires Level 45
+  Requires Level 35
   </br>
-  <span id="uncommon">Use: Restores 2148 health over 30 sec. Must remain seated while eating. If you spend at least 10 seconds eating you will become well fed and gain 10 Stamina and 1% reduced chance to be critically hit for 15 min.</span>
+  <span id="uncommon">
+  Use: Restores 874.8 health over 27 sec. Must remain seated while eating. If you eat for 10 seconds will also increase your Agility by 10 for 600 sec.</br> "These unassuming little berries pack a lot of power!"</span>
   </div>
+
 </div>
+
 {{< /tab >}}
 
 {{< tab name="Grogg" >}}
@@ -518,30 +446,6 @@ Use: Increases Stamina by 10 for 15 min and gets you drunk to boot. Green means 
   <span id="uncommon"></span>
   </div>
 </div>-->
-
-##### Dyrare
-<!-- Medivhs Merlot -->
-<div class="tooltip">
-  <div class="wtti" id="inv_drink_waterskin_05">
-    <div class="stack-size">20</div>
-    <div class="external-links">
-      <a href="https://database.turtle-wow.org/?item=61174" title="Turtle-wow Database">
-        <img src="https://i.imgur.com/qVIUqUn.png" style="width:15px; margin-top:-3px;"/>
-      </a>
-      <a href="https://www.wowauctions.net/auctionHouse/turtle-wow/nordanaar/mergedAh/medivhs-merlot-61174" title="WoW Auctions">
-        <img src="https://i.imgur.com/56N2PQk.png" style="width:15px; margin-top:-3px"/>
-      </a>
-    </div>
-  </div>
-  <div class="wtt">
-  <span style="font-size:110%">Medivh's Merlot'</span>
-  </br>
-  Requires Level 45
-  </br>
-  <span id="uncommon">
-Use: Increases Stamina by 25 for 15 min and gets you drunk to boot!</span>
-  </div>
-</div>
 {{< /tab >}}
 
 {{< /tabgroup >}}
