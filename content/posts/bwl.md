@@ -33,14 +33,14 @@ Swiftness Potion
 Trash efter Vaelstrazs
 ### Halls of Strife
 
-- ![Skull](/raid-targets/Skull.webp) Death Talon Flamescale
-- ![Cross](/raid-targets/Cross.webp) Death Talon Flamescale
-- ![Square](/raid-targets/Square.webp) Death Talon Seether
-- ![Circle](/raid-targets/Circle.webp) Death Talon Seether
-- ![Moon](/raid-targets/Moon.webp) Death Talon Wyrmkin
-- ![Diamond](/raid-targets/Diamond.webp) Death Talon Wyrmkin
-- ![Triangle](/raid-targets/Triangle.webp) Death Talon Captain
-
+- ![Skull](https://i.imgur.com/wpPEzjA.png) Death Talon Flamescale
+- ![Cross](https://i.imgur.com/SHcAO5b.png) Death Talon Flamescale
+- ![Square](https://i.imgur.com/3Cw4UaK.png) Death Talon Seether
+- ![Circle](https://i.imgur.com/QffUCFz.png) Death Talon Seether
+- ![Moon](https://i.imgur.com/LU1cxTi.png) Death Talon Wyrmkin
+- ![Diamond](https://i.imgur.com/6JDqq80.png) Death Talon Wyrmkin
+- ![Triangle](https://i.imgur.com/3rDmZs8.png) Death Talon Captain
+<!-- Star https://i.imgur.com/LIPYBKI.png -->
 Captain kitas iväg av en hunter så de inte kan buffa de andra mobsen.
 
 Wyrmkin söver vi med druid hibernate.
@@ -50,11 +50,11 @@ Flamescale chargar regelbundet och dödas av först.
 ### Crimson Laboratories
 #### Lab packs
 
-- ![Skull](/raid-targets/Skull.webp) Blackwing Warlock
-- ![Cross](/raid-targets/Cross.webp) Blackwing Warlock
-- ![Square](/raid-targets/Square.webp) Blackwing Spellbinder
-- ![Moon](/raid-targets/Moon.webp) Blackwing Spellbinder
-- ![Diamond](/raid-targets/Diamond.webp) Death Talon Overseer
+- ![Skull](https://i.imgur.com/wpPEzjA.png) Blackwing Warlock
+- ![Cross](https://i.imgur.com/SHcAO5b.png) Blackwing Warlock
+- ![Square](https://i.imgur.com/3Cw4UaK.png) Blackwing Spellbinder
+- ![Moon](https://i.imgur.com/LU1cxTi.png) Blackwing Spellbinder
+- ![Diamond](https://i.imgur.com/6JDqq80.png)  Death Talon Overseer
 - Blackwing Technician
 
 Technicians tankas av en person åt sidan, de delar threat med varandra.
@@ -67,10 +67,10 @@ Overseer tankas åt sidan.
 
 #### Overseer Trio
 
-- ![Skull](/raid-targets/Skull.webp) Death Talon Overseer
-- ![Cross](/raid-targets/Cross.webp) Death Talon Overseer
-- ![Square](/raid-targets/Square.webp) Death Talon Overseer
-- ![Diamond](/raid-targets/Diamond.webp) Death Talon Wyrmguard
+- ![Skull](https://i.imgur.com/wpPEzjA.png) Death Talon Overseer
+- ![Cross](https://i.imgur.com/SHcAO5b.png) Death Talon Overseer
+- ![Square](https://i.imgur.com/3Cw4UaK.png) Death Talon Overseer
+- ![Diamond](https://i.imgur.com/6JDqq80.png)  Death Talon Wyrmguard
 
 Overseer cleavar. Tankas med ryggen emot varandra så raiden kan attackera dem ihop utan att tanksen cleavas sönder.
 
